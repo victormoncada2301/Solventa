@@ -12,8 +12,11 @@ Bienvenidos a mi primera **Simple Page Application con Vue.Js** , a continuació
 
   Todo esto quedara en la carpeta llamada **"Node_Modules"** y de esta manera todas la librerias quedan almacenadas en el equipo  
   
-   4.Ejecutar el comando **"VUE UI"** para tener el panel de configuracion del servidor donde al inciarlo se establece el puerto            
-   **HTTP (8000)** que los redirecciona a la aplicación
+   4. Ejecutar el comando **"VUE UI"** para tener el panel de configuracion del servidor
+   
+   5. Importar el proyecto a traves del panel configuración de Vue
+   
+   6. Iniciar el servidor y los redireccionara a la página de la aplicación  **http://localhost:8080/**
 
 Si quieres tener una idea más clara del funcionamiento de la aplicación les recomiendo tomarse unos minutos y revisar el codigo fuente.
 

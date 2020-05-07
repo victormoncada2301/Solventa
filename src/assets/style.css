@@ -1,0 +1,95 @@
+#app {
+    font-family: 'Avenir', Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-align: center;
+    color: #2c3e50;
+ }
+
+ /* Estilos del Formulario */
+ @media (min-width: 800px) {
+  .forms {
+    width: 50%;
+    margin: 0 auto;
+  }
+}
+
+/* Color del Menu */  
+.fondo {
+  background-color: #7f54b3;
+}
+
+/* Estilos del Slider */
+  .fade-enter-active,
+  .fade-leave-active {
+    transition: all 0.9s ease;
+    overflow: hidden;
+    visibility: visible;
+    position: absolute;
+    width:100%;
+    opacity: 1;
+  }
+  
+  .fade-enter,
+  .fade-leave-to {
+    visibility: hidden;
+    width:100%;
+    opacity: 0;
+  }
+  
+  .slider-img { 
+    margin-top: 20px;
+    height:300px;
+    width:60%
+  }
+  
+  .prev, .next {
+    cursor: pointer;
+    position: absolute;
+    top: 40%;
+    width: auto;
+    padding: 16px;
+    color: #7f54b3;
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.7s ease;
+    border-radius: 0 4px 4px 0;
+    text-decoration: none;
+    user-select: none;
+  }
+  
+  .next {
+    right: 0;
+  }
+  
+  .prev {
+    left: 0;
+  }
+  
+  .prev:hover, .next:hover {
+    background-color: #eee;
+    color: #7f54b3;
+  }
+  
+/* Estilos del About */
+  .about-header {
+    font-weight: bold;
+    font-family: 'futura';
+    font-size: 1.3rem;
+  }
+
+  .about-title {
+    font-weight: bold;
+    font-family: 'futura';
+    font-size: 1.2m;
+  
+  }
+
+  .about-body {
+    font-family: 'futura';
+    font-size: 1rem;
+    text-align: justify;;
+    width: 50%;
+    margin: 0 auto;
+  
+  }

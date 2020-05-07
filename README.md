@@ -1,19 +1,23 @@
-# solventa-test
+Solventa-Test
 
-## Project setup
-```
-npm install
-```
+Bienvenidos a mi primera Simple Page Application con Vue.Js , a continuación les explico brevemente el funcionamiento...
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+    Descargar e instalar Node.js , Bower, Visual Studio Code , Git
 
-### Compiles and minifies for production
-```
-npm run build
-```
+    Clonar el repositorio con el comando ("git clone") y pegar el enlace
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+    Se debe ejecutar el siguiente comando por la consola de Git ("npm install")
+
+(De esa forma todas las dependecias que estan declaradas en el package.json seran instaladas)
+
+Todo esto quedara en la carpeta llamada "Node_Modules" y de esta manera todas la librerias quedan almacenadas en el equipo
+
+Ejecutar el comando "vue ui" para tener el panel de configuracion del servidor donde al inciarlo se establece el puerto HTTP (8000) que los redirecciona a la aplicación
+
+Si quieres tener una idea más clara del funcionamiento de la aplicación les recomiendo tomarse unos minutos y revisar el codigo fuente.
+
+Sin tener más nada que acotar
+
+Saludos Cordiales...
+
+Victor Moncada

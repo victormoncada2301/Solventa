@@ -1,6 +1,6 @@
 # Solventa-Test 
-
-Bienvenidos a mi primera **Simple Page Application con Vue.Js** , a continuación les explico brevemente el funcionamiento
+ 
+Bienvenidos a mi primera **Single Page Application con Vue.Js** , a continuación les explico brevemente el funcionamiento
 
   1. Descargar e instalar Node.js , Bower, Visual Studio Code , Git
 

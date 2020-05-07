@@ -19,6 +19,6 @@ Si quieres tener una idea más clara del funcionamiento de la aplicación les re
 
 Sin tener más nada que acotar
 
-Saludos Cordiales...
+**Saludos Cordiales... **
 
-Victor Moncada
+**Victor Moncada**
